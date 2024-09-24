@@ -1,0 +1,1 @@
+This repo contains the workshops and projects I completed in C as a student. It includes a clinic application where the patient and appointment data is read from files, parced and used for the patient and appointment management system. Since the major focus was concepts, everything runs in the console and not in a proper UI.
